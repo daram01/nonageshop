@@ -9,8 +9,8 @@
 <title>Insert title here</title>
 <title>Nonage Shop</title>
   <link href="css/shopping.css" rel="stylesheet">  
-  <script type="text/javascript" src="member/member.js"></script>
-  <script type="text/javascript" src="mypage/mypage.js"></script> 
+  <script type="text/javascript" src="member/member.js?var=1"></script> 
+  <script type="text/javascript" src="mypage/mypage.js?var=1"></script> 
 </head>
 <body>
 <div id="wrap">
